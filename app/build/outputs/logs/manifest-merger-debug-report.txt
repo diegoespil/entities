@@ -1,0 +1,1047 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/4f867452942d9cf8190ba596ec34bcbc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6472a71596a1bb7cdbe327346a98e976/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/33faf04a5441f80e0e244909362048f2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/014eb5763eab2632896643d4dc0b2088/AndroidManifest.xml:2:1-8:12
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/8f71f420765cde02a5d989f82d04ccad/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/80acfbaa2c800e750fa5dfa4238ced4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/a2ad1fc64df6b8614a6e4b435a2870e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/f00e62b181402b2ea584d3d09e7f0aa5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/84aca37efccb19e22fa3f00c69b9a363/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6c84a7e1ceb60bc1edba52ebca4f324d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/764892a108be64342995c2f055a0b5a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:runner:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/runner-1.0.2-alpha1.aar/151d755d621a495e77123fd025a68954/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0509457c3bf35c01d1f8d99e6fcbfb39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/6921147f8b3561dd4630c1b3bcb7cb88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/6be4c54e8fbf00c654633e31f4ab9a4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/0906f38066ff1b74b4c0dc5102610be8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/233cd489e94c4f7eb854a9403135c54f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/ab6604ef89af4621119fca62f0df9c8c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/6ec16cee8ee1cebb02bd5dec1dc04feb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/dc7093971c3b4f36fd6e153f039ec9be/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/4ca3f5a8801b0f244082a53bc5bfc3e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/c2e75a38a4df33dd078245723fe7080e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/3f3d6691beddf17c1aab62c21f4a9011/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/4c565d5199f836b770e49f3278149ce8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/1b609d8b5786a8e27bc616813127e60c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/35b861326e1f2dc4b922805534aded3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/52aa1f9ac505fb2c8541959214dc8231/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/6beedf05f717d772376713214e7bbd75/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.8.0.aar/bd2370e0767e5b2bda26f556d24ad5ff/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/038dcd279f340892b8b5211861e7f443/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/f6e26ec58abde5204b3298f6b4631450/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/f9f25bf30e00f7e19beeda5bd1f3045b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/0a9bc3da9051aee66a4866d7444af629/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/1872f1530d12332109ffc68ab4c796cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/8160bb81799e6ea1e2674f175e4d5148/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/0b460a5c77b2020cff6255ba9701663e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/2b443e188fdf8d8c581df8fca29e7819/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/59966ffac3eed8a64c03903263289bfb/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/c58e236f7a959ca059112e27342eb924/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/d097bdc14e568ac9a7ea72273a38485f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/aa0941f2c9c5da8d125df346504e49ea/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/bb7e165a411ed352dfb8017555e80dc6/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/8ce3fbef0966eed6692c4c4e8fa25b46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/e47b1d8b794cd746be4c3d8951269628/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/281ae4a8b909c31518954850899caa50/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1309086a1a657b4d37c82da7bf6b1b3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cfd3a1bb85dcbb70215da4598e441a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4066c97be93cf8eba11cb9c6d31fa3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/33fcf4bc6ef96ece58e062aa82af9fbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/5e823c7509c8c12c1351fc92f72e62bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a38dedb5afd9c9b3aafb2f6c1c7a55d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/4a6a57e64d553d79d27230c33a39c72d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b690f81b249273f4cefed8d5ca334b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/1398abeadbfa855bb6c820cf3a9dd764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.test:monitor:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2-alpha1.aar/3d39df2d7114d9f35e3056f7e81c04d7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/f2884cbddc07a9b9eab6583e041abf66/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/40d4f3101a5b076c0500fb812425b006/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c570624df51a9355bd5254349a5d9aea/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/d7b95d0893f1566e9a091ff32f17442b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d311a79969a8badf88d12fcaf1e3a922/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/0b881c1c40aca56d482b07af6c62852e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/228cc2894fc814856526ebd769e78b0c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/360ab358882c875249904de597667bce/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/411e38856e1e949e9d1dca672d534a4f/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/a2b0db985de6514fc7bbc52634ed229d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-11.8.0.aar/34d1384142b9a3ddbd81882786bedeb9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/e7d129239664abe03381005a9cbd936e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/a08d3d383caba502f7188a1f77b27c05/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.8.0.aar/d21ee733bc489ca2c9f06f6bfb882df8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.8.0.aar/2c0ee162ac83403c6e58fe1a67de6d8c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-license-11.8.0.aar/7f2bebc52a590ac3eb6078ec6e2a4986/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-11.8.0.aar/eafd34089b8c793b91b2c83d0c8e2ea8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/4fed568a665d7fa7455d414a8e55762e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-11.8.0.aar/7ffbe974d0a95aefe0c03fb53f8f2080/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-11.8.0.aar/81b5e10765d86dd89b35568b1233fb51/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-11.8.0.aar/00bb7bf916d6fc3753a181382ff864c9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8627b0420482cdd44b17ff0cfeca026d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/78e4388abfe298aaf7ab6a4469eafc5d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/41e9f259dbf2827ee5b4d815d195f485/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/c27a40d121d4c651648a1e6fa4d256e4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-11.8.0.aar/16bfe0dd7d6c698cfeec6269e58072ce/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-license-11.8.0.aar/fb7758da6c39a9a06674c700a44c321b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/7b11f0a99fdeb2704bd9006fc03b2be9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/616f787879c5627588cbf76fca1d2eec/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/c3c42aa5d62673732075b3aca7842c7a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/819798b579a6c539e01c5e72669f0dd2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c0614f8b24a6bed5d09eb33fdaf588da/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-11.8.0.aar/c378971ee3e198034c1bc5941098ff19/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/78c076ff8af81bac66b9b7cd1639c03a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/36fca6420ec63f1fadefebf10ec9197e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e6281591b6741611cd4f17d77e696056/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.8.0.aar/c198c1d8c9e9ed4f8da0b4fcd07984c6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-11.8.0.aar/4df5dfee7279361eecf94576a6b06028/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/fa24730bba4ab54fef7f28b736d606ee/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-11.8.0.aar/40cb37305b9cea8035f16bc87307599d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-11.8.0.aar/34db77cf42baafbdea4f0fe0c85a11e7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-11.8.0.aar/68b13db377559dbf4b200b2713182f5a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-11.8.0.aar/f563acee9c1d993e1bf21f3ab5b03be2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/4c35259243142e859ad3f666167408e8/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/11bfc48835e4d2db2a83593d10a3250e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/378a327254efe927a324cfdb17ef13a3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/8bf65ee0a9ca3142421ea14334a8e256/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/6ab4be15ade304e611d7ccbe102f03f5/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/diego/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ca155057ff6bb93cbf9f702091e3627a/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:5-57:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/4f867452942d9cf8190ba596ec34bcbc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/4f867452942d9cf8190ba596ec34bcbc/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6472a71596a1bb7cdbe327346a98e976/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6472a71596a1bb7cdbe327346a98e976/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/33faf04a5441f80e0e244909362048f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/33faf04a5441f80e0e244909362048f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/8f71f420765cde02a5d989f82d04ccad/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/8f71f420765cde02a5d989f82d04ccad/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/84aca37efccb19e22fa3f00c69b9a363/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/84aca37efccb19e22fa3f00c69b9a363/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/0906f38066ff1b74b4c0dc5102610be8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/0906f38066ff1b74b4c0dc5102610be8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/6ec16cee8ee1cebb02bd5dec1dc04feb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/6ec16cee8ee1cebb02bd5dec1dc04feb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/dc7093971c3b4f36fd6e153f039ec9be/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/dc7093971c3b4f36fd6e153f039ec9be/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/4ca3f5a8801b0f244082a53bc5bfc3e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/4ca3f5a8801b0f244082a53bc5bfc3e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/c2e75a38a4df33dd078245723fe7080e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/c2e75a38a4df33dd078245723fe7080e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/3f3d6691beddf17c1aab62c21f4a9011/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/3f3d6691beddf17c1aab62c21f4a9011/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/4c565d5199f836b770e49f3278149ce8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/4c565d5199f836b770e49f3278149ce8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/1b609d8b5786a8e27bc616813127e60c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/1b609d8b5786a8e27bc616813127e60c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/35b861326e1f2dc4b922805534aded3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/35b861326e1f2dc4b922805534aded3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/6beedf05f717d772376713214e7bbd75/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/6beedf05f717d772376713214e7bbd75/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/038dcd279f340892b8b5211861e7f443/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/038dcd279f340892b8b5211861e7f443/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/f6e26ec58abde5204b3298f6b4631450/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/f6e26ec58abde5204b3298f6b4631450/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/f9f25bf30e00f7e19beeda5bd1f3045b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/f9f25bf30e00f7e19beeda5bd1f3045b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/0a9bc3da9051aee66a4866d7444af629/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/0a9bc3da9051aee66a4866d7444af629/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/1872f1530d12332109ffc68ab4c796cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/1872f1530d12332109ffc68ab4c796cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/8160bb81799e6ea1e2674f175e4d5148/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/8160bb81799e6ea1e2674f175e4d5148/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/0b460a5c77b2020cff6255ba9701663e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/0b460a5c77b2020cff6255ba9701663e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/2b443e188fdf8d8c581df8fca29e7819/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/2b443e188fdf8d8c581df8fca29e7819/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/d097bdc14e568ac9a7ea72273a38485f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/d097bdc14e568ac9a7ea72273a38485f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/8ce3fbef0966eed6692c4c4e8fa25b46/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/8ce3fbef0966eed6692c4c4e8fa25b46/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/e47b1d8b794cd746be4c3d8951269628/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/e47b1d8b794cd746be4c3d8951269628/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/281ae4a8b909c31518954850899caa50/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/281ae4a8b909c31518954850899caa50/AndroidManifest.xml:5:5-20
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/f2884cbddc07a9b9eab6583e041abf66/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/f2884cbddc07a9b9eab6583e041abf66/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/40d4f3101a5b076c0500fb812425b006/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/40d4f3101a5b076c0500fb812425b006/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c570624df51a9355bd5254349a5d9aea/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c570624df51a9355bd5254349a5d9aea/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/d7b95d0893f1566e9a091ff32f17442b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/d7b95d0893f1566e9a091ff32f17442b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d311a79969a8badf88d12fcaf1e3a922/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d311a79969a8badf88d12fcaf1e3a922/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/0b881c1c40aca56d482b07af6c62852e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/0b881c1c40aca56d482b07af6c62852e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/228cc2894fc814856526ebd769e78b0c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/228cc2894fc814856526ebd769e78b0c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/360ab358882c875249904de597667bce/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/360ab358882c875249904de597667bce/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/411e38856e1e949e9d1dca672d534a4f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/411e38856e1e949e9d1dca672d534a4f/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/a2b0db985de6514fc7bbc52634ed229d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/a2b0db985de6514fc7bbc52634ed229d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-11.8.0.aar/34d1384142b9a3ddbd81882786bedeb9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-11.8.0.aar/34d1384142b9a3ddbd81882786bedeb9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/e7d129239664abe03381005a9cbd936e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/e7d129239664abe03381005a9cbd936e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/a08d3d383caba502f7188a1f77b27c05/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/a08d3d383caba502f7188a1f77b27c05/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.8.0.aar/d21ee733bc489ca2c9f06f6bfb882df8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.8.0.aar/d21ee733bc489ca2c9f06f6bfb882df8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.8.0.aar/2c0ee162ac83403c6e58fe1a67de6d8c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.8.0.aar/2c0ee162ac83403c6e58fe1a67de6d8c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-license-11.8.0.aar/7f2bebc52a590ac3eb6078ec6e2a4986/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-license-11.8.0.aar/7f2bebc52a590ac3eb6078ec6e2a4986/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-11.8.0.aar/eafd34089b8c793b91b2c83d0c8e2ea8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-11.8.0.aar/eafd34089b8c793b91b2c83d0c8e2ea8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/4fed568a665d7fa7455d414a8e55762e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/4fed568a665d7fa7455d414a8e55762e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-11.8.0.aar/7ffbe974d0a95aefe0c03fb53f8f2080/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-11.8.0.aar/7ffbe974d0a95aefe0c03fb53f8f2080/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-11.8.0.aar/81b5e10765d86dd89b35568b1233fb51/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-11.8.0.aar/81b5e10765d86dd89b35568b1233fb51/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-11.8.0.aar/00bb7bf916d6fc3753a181382ff864c9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-11.8.0.aar/00bb7bf916d6fc3753a181382ff864c9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8627b0420482cdd44b17ff0cfeca026d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8627b0420482cdd44b17ff0cfeca026d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/78e4388abfe298aaf7ab6a4469eafc5d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/78e4388abfe298aaf7ab6a4469eafc5d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/41e9f259dbf2827ee5b4d815d195f485/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/41e9f259dbf2827ee5b4d815d195f485/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/c27a40d121d4c651648a1e6fa4d256e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/c27a40d121d4c651648a1e6fa4d256e4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-11.8.0.aar/16bfe0dd7d6c698cfeec6269e58072ce/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-11.8.0.aar/16bfe0dd7d6c698cfeec6269e58072ce/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-license-11.8.0.aar/fb7758da6c39a9a06674c700a44c321b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-license-11.8.0.aar/fb7758da6c39a9a06674c700a44c321b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/7b11f0a99fdeb2704bd9006fc03b2be9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/7b11f0a99fdeb2704bd9006fc03b2be9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/616f787879c5627588cbf76fca1d2eec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/616f787879c5627588cbf76fca1d2eec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/c3c42aa5d62673732075b3aca7842c7a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/c3c42aa5d62673732075b3aca7842c7a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/819798b579a6c539e01c5e72669f0dd2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/819798b579a6c539e01c5e72669f0dd2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c0614f8b24a6bed5d09eb33fdaf588da/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c0614f8b24a6bed5d09eb33fdaf588da/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-11.8.0.aar/c378971ee3e198034c1bc5941098ff19/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-11.8.0.aar/c378971ee3e198034c1bc5941098ff19/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/78c076ff8af81bac66b9b7cd1639c03a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/78c076ff8af81bac66b9b7cd1639c03a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/36fca6420ec63f1fadefebf10ec9197e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/36fca6420ec63f1fadefebf10ec9197e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e6281591b6741611cd4f17d77e696056/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e6281591b6741611cd4f17d77e696056/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.8.0.aar/c198c1d8c9e9ed4f8da0b4fcd07984c6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.8.0.aar/c198c1d8c9e9ed4f8da0b4fcd07984c6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-11.8.0.aar/4df5dfee7279361eecf94576a6b06028/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-11.8.0.aar/4df5dfee7279361eecf94576a6b06028/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/fa24730bba4ab54fef7f28b736d606ee/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/fa24730bba4ab54fef7f28b736d606ee/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-11.8.0.aar/40cb37305b9cea8035f16bc87307599d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-11.8.0.aar/40cb37305b9cea8035f16bc87307599d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-11.8.0.aar/34db77cf42baafbdea4f0fe0c85a11e7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-11.8.0.aar/34db77cf42baafbdea4f0fe0c85a11e7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-11.8.0.aar/68b13db377559dbf4b200b2713182f5a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-11.8.0.aar/68b13db377559dbf4b200b2713182f5a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-11.8.0.aar/f563acee9c1d993e1bf21f3ab5b03be2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-11.8.0.aar/f563acee9c1d993e1bf21f3ab5b03be2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/4c35259243142e859ad3f666167408e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/4c35259243142e859ad3f666167408e8/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/11bfc48835e4d2db2a83593d10a3250e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/11bfc48835e4d2db2a83593d10a3250e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/378a327254efe927a324cfdb17ef13a3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/378a327254efe927a324cfdb17ef13a3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/8bf65ee0a9ca3142421ea14334a8e256/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/8bf65ee0a9ca3142421ea14334a8e256/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/6ab4be15ade304e611d7ccbe102f03f5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/6ab4be15ade304e611d7ccbe102f03f5/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:17:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:18:9-20:55
+	android:value
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:19:13-58
+activity#com.diego.myapplication.MainActivity
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:29:27-73
+activity#com.diego.myapplication.LoginActivity
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:35:13-57
+	android:configChanges
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:34:13-96
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:33:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:36:13-40:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.diego.myapplication.EntityActivity
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:42:19-49
+activity#com.diego.myapplication.SignupActivity
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:49:19-49
+activity#com.diego.myapplication.ResetPasswordActivity
+ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:56:9-59
+	android:name
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:56:19-56
+uses-sdk
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/4f867452942d9cf8190ba596ec34bcbc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/4f867452942d9cf8190ba596ec34bcbc/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6472a71596a1bb7cdbe327346a98e976/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6472a71596a1bb7cdbe327346a98e976/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/33faf04a5441f80e0e244909362048f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-11.8.0.aar/33faf04a5441f80e0e244909362048f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/014eb5763eab2632896643d4dc0b2088/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/014eb5763eab2632896643d4dc0b2088/AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/8f71f420765cde02a5d989f82d04ccad/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-login-4.27.0.aar/8f71f420765cde02a5d989f82d04ccad/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/80acfbaa2c800e750fa5dfa4238ced4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/80acfbaa2c800e750fa5dfa4238ced4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/a2ad1fc64df6b8614a6e4b435a2870e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/a2ad1fc64df6b8614a6e4b435a2870e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/f00e62b181402b2ea584d3d09e7f0aa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/f00e62b181402b2ea584d3d09e7f0aa5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/84aca37efccb19e22fa3f00c69b9a363/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.8.0.aar/84aca37efccb19e22fa3f00c69b9a363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6c84a7e1ceb60bc1edba52ebca4f324d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.0.2.aar/6c84a7e1ceb60bc1edba52ebca4f324d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/764892a108be64342995c2f055a0b5a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/764892a108be64342995c2f055a0b5a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:runner:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/runner-1.0.2-alpha1.aar/151d755d621a495e77123fd025a68954/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/runner-1.0.2-alpha1.aar/151d755d621a495e77123fd025a68954/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0509457c3bf35c01d1f8d99e6fcbfb39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0509457c3bf35c01d1f8d99e6fcbfb39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/6921147f8b3561dd4630c1b3bcb7cb88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/6921147f8b3561dd4630c1b3bcb7cb88/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.8.0.aar/4fe05b37703fbde5829d8522c3d6b138/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/6be4c54e8fbf00c654633e31f4ab9a4f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.8.0.aar/6be4c54e8fbf00c654633e31f4ab9a4f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/0906f38066ff1b74b4c0dc5102610be8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.8.0.aar/0906f38066ff1b74b4c0dc5102610be8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/233cd489e94c4f7eb854a9403135c54f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.8.0.aar/233cd489e94c4f7eb854a9403135c54f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/ab6604ef89af4621119fca62f0df9c8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.8.0.aar/ab6604ef89af4621119fca62f0df9c8c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/6ec16cee8ee1cebb02bd5dec1dc04feb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-11.8.0.aar/6ec16cee8ee1cebb02bd5dec1dc04feb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/dc7093971c3b4f36fd6e153f039ec9be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.8.0.aar/dc7093971c3b4f36fd6e153f039ec9be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/4ca3f5a8801b0f244082a53bc5bfc3e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-11.8.0.aar/4ca3f5a8801b0f244082a53bc5bfc3e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/c2e75a38a4df33dd078245723fe7080e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.8.0.aar/c2e75a38a4df33dd078245723fe7080e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/3f3d6691beddf17c1aab62c21f4a9011/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.8.0.aar/3f3d6691beddf17c1aab62c21f4a9011/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/4c565d5199f836b770e49f3278149ce8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.8.0.aar/4c565d5199f836b770e49f3278149ce8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/1b609d8b5786a8e27bc616813127e60c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.8.0.aar/1b609d8b5786a8e27bc616813127e60c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/35b861326e1f2dc4b922805534aded3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.8.0.aar/35b861326e1f2dc4b922805534aded3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/52aa1f9ac505fb2c8541959214dc8231/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.8.0.aar/52aa1f9ac505fb2c8541959214dc8231/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/6beedf05f717d772376713214e7bbd75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.8.0.aar/6beedf05f717d772376713214e7bbd75/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.8.0.aar/bd2370e0767e5b2bda26f556d24ad5ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.8.0.aar/bd2370e0767e5b2bda26f556d24ad5ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/038dcd279f340892b8b5211861e7f443/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/038dcd279f340892b8b5211861e7f443/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/f6e26ec58abde5204b3298f6b4631450/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/f6e26ec58abde5204b3298f6b4631450/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/f9f25bf30e00f7e19beeda5bd1f3045b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.8.0.aar/f9f25bf30e00f7e19beeda5bd1f3045b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/0a9bc3da9051aee66a4866d7444af629/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.8.0.aar/0a9bc3da9051aee66a4866d7444af629/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/1872f1530d12332109ffc68ab4c796cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.8.0.aar/1872f1530d12332109ffc68ab4c796cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/8160bb81799e6ea1e2674f175e4d5148/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/8160bb81799e6ea1e2674f175e4d5148/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/0b460a5c77b2020cff6255ba9701663e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/0b460a5c77b2020cff6255ba9701663e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/2b443e188fdf8d8c581df8fca29e7819/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/2b443e188fdf8d8c581df8fca29e7819/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/59966ffac3eed8a64c03903263289bfb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/59966ffac3eed8a64c03903263289bfb/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/c58e236f7a959ca059112e27342eb924/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/c58e236f7a959ca059112e27342eb924/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/d097bdc14e568ac9a7ea72273a38485f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/d097bdc14e568ac9a7ea72273a38485f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/aa0941f2c9c5da8d125df346504e49ea/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/aa0941f2c9c5da8d125df346504e49ea/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/bb7e165a411ed352dfb8017555e80dc6/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/bb7e165a411ed352dfb8017555e80dc6/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/8ce3fbef0966eed6692c4c4e8fa25b46/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/8ce3fbef0966eed6692c4c4e8fa25b46/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/e47b1d8b794cd746be4c3d8951269628/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/e47b1d8b794cd746be4c3d8951269628/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/281ae4a8b909c31518954850899caa50/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/281ae4a8b909c31518954850899caa50/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1309086a1a657b4d37c82da7bf6b1b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/1309086a1a657b4d37c82da7bf6b1b3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cfd3a1bb85dcbb70215da4598e441a2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/cfd3a1bb85dcbb70215da4598e441a2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4066c97be93cf8eba11cb9c6d31fa3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d4066c97be93cf8eba11cb9c6d31fa3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/33fcf4bc6ef96ece58e062aa82af9fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/33fcf4bc6ef96ece58e062aa82af9fbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/5e823c7509c8c12c1351fc92f72e62bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/5e823c7509c8c12c1351fc92f72e62bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a38dedb5afd9c9b3aafb2f6c1c7a55d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a38dedb5afd9c9b3aafb2f6c1c7a55d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/4a6a57e64d553d79d27230c33a39c72d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.2.aar/4a6a57e64d553d79d27230c33a39c72d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b690f81b249273f4cefed8d5ca334b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6b690f81b249273f4cefed8d5ca334b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/1398abeadbfa855bb6c820cf3a9dd764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/diego/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/1398abeadbfa855bb6c820cf3a9dd764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:monitor:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2-alpha1.aar/3d39df2d7114d9f35e3056f7e81c04d7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:monitor:1.0.2-alpha1] /home/diego/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2-alpha1.aar/3d39df2d7114d9f35e3056f7e81c04d7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/f2884cbddc07a9b9eab6583e041abf66/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/f2884cbddc07a9b9eab6583e041abf66/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/40d4f3101a5b076c0500fb812425b006/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/40d4f3101a5b076c0500fb812425b006/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c570624df51a9355bd5254349a5d9aea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/c570624df51a9355bd5254349a5d9aea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/d7b95d0893f1566e9a091ff32f17442b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/d7b95d0893f1566e9a091ff32f17442b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d311a79969a8badf88d12fcaf1e3a922/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/d311a79969a8badf88d12fcaf1e3a922/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/0b881c1c40aca56d482b07af6c62852e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/0b881c1c40aca56d482b07af6c62852e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/228cc2894fc814856526ebd769e78b0c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/228cc2894fc814856526ebd769e78b0c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/360ab358882c875249904de597667bce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/360ab358882c875249904de597667bce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/411e38856e1e949e9d1dca672d534a4f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-11.8.0.aar/411e38856e1e949e9d1dca672d534a4f/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/a2b0db985de6514fc7bbc52634ed229d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-11.8.0.aar/a2b0db985de6514fc7bbc52634ed229d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-11.8.0.aar/34d1384142b9a3ddbd81882786bedeb9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-11.8.0.aar/34d1384142b9a3ddbd81882786bedeb9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/e7d129239664abe03381005a9cbd936e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.8.0.aar/e7d129239664abe03381005a9cbd936e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/a08d3d383caba502f7188a1f77b27c05/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.8.0.aar/a08d3d383caba502f7188a1f77b27c05/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.8.0.aar/d21ee733bc489ca2c9f06f6bfb882df8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-11.8.0.aar/d21ee733bc489ca2c9f06f6bfb882df8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.8.0.aar/2c0ee162ac83403c6e58fe1a67de6d8c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-11.8.0.aar/2c0ee162ac83403c6e58fe1a67de6d8c/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-license-11.8.0.aar/7f2bebc52a590ac3eb6078ec6e2a4986/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-config-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-config-license-11.8.0.aar/7f2bebc52a590ac3eb6078ec6e2a4986/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-11.8.0.aar/eafd34089b8c793b91b2c83d0c8e2ea8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-awareness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-11.8.0.aar/eafd34089b8c793b91b2c83d0c8e2ea8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/4fed568a665d7fa7455d414a8e55762e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-crash-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-11.8.0.aar/4fed568a665d7fa7455d414a8e55762e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-11.8.0.aar/7ffbe974d0a95aefe0c03fb53f8f2080/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-drive-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-11.8.0.aar/7ffbe974d0a95aefe0c03fb53f8f2080/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-11.8.0.aar/81b5e10765d86dd89b35568b1233fb51/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fido-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-11.8.0.aar/81b5e10765d86dd89b35568b1233fb51/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-11.8.0.aar/00bb7bf916d6fc3753a181382ff864c9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-11.8.0.aar/00bb7bf916d6fc3753a181382ff864c9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8627b0420482cdd44b17ff0cfeca026d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/8627b0420482cdd44b17ff0cfeca026d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/78e4388abfe298aaf7ab6a4469eafc5d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/78e4388abfe298aaf7ab6a4469eafc5d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/41e9f259dbf2827ee5b4d815d195f485/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/41e9f259dbf2827ee5b4d815d195f485/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/c27a40d121d4c651648a1e6fa4d256e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/c27a40d121d4c651648a1e6fa4d256e4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-11.8.0.aar/16bfe0dd7d6c698cfeec6269e58072ce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-fitness-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-11.8.0.aar/16bfe0dd7d6c698cfeec6269e58072ce/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-license-11.8.0.aar/fb7758da6c39a9a06674c700a44c321b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-games-license-11.8.0.aar/fb7758da6c39a9a06674c700a44c321b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/7b11f0a99fdeb2704bd9006fc03b2be9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/7b11f0a99fdeb2704bd9006fc03b2be9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/616f787879c5627588cbf76fca1d2eec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/616f787879c5627588cbf76fca1d2eec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/c3c42aa5d62673732075b3aca7842c7a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-appindexing-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-11.8.0.aar/c3c42aa5d62673732075b3aca7842c7a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/819798b579a6c539e01c5e72669f0dd2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-identity-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-11.8.0.aar/819798b579a6c539e01c5e72669f0dd2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c0614f8b24a6bed5d09eb33fdaf588da/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/c0614f8b24a6bed5d09eb33fdaf588da/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-11.8.0.aar/c378971ee3e198034c1bc5941098ff19/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-instantapps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-11.8.0.aar/c378971ee3e198034c1bc5941098ff19/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/78c076ff8af81bac66b9b7cd1639c03a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/78c076ff8af81bac66b9b7cd1639c03a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/36fca6420ec63f1fadefebf10ec9197e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.8.0.aar/36fca6420ec63f1fadefebf10ec9197e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e6281591b6741611cd4f17d77e696056/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/e6281591b6741611cd4f17d77e696056/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.8.0.aar/c198c1d8c9e9ed4f8da0b4fcd07984c6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-nearby-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-11.8.0.aar/c198c1d8c9e9ed4f8da0b4fcd07984c6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-11.8.0.aar/4df5dfee7279361eecf94576a6b06028/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-panorama-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-11.8.0.aar/4df5dfee7279361eecf94576a6b06028/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/fa24730bba4ab54fef7f28b736d606ee/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-places-license-11.8.0.aar/fa24730bba4ab54fef7f28b736d606ee/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-11.8.0.aar/40cb37305b9cea8035f16bc87307599d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-plus-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-11.8.0.aar/40cb37305b9cea8035f16bc87307599d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-11.8.0.aar/34db77cf42baafbdea4f0fe0c85a11e7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-safetynet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-11.8.0.aar/34db77cf42baafbdea4f0fe0c85a11e7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-11.8.0.aar/68b13db377559dbf4b200b2713182f5a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-11.8.0.aar/68b13db377559dbf4b200b2713182f5a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-11.8.0.aar/f563acee9c1d993e1bf21f3ab5b03be2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-11.8.0.aar/f563acee9c1d993e1bf21f3ab5b03be2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/4c35259243142e859ad3f666167408e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-11.8.0.aar/4c35259243142e859ad3f666167408e8/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/11bfc48835e4d2db2a83593d10a3250e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/11bfc48835e4d2db2a83593d10a3250e/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/378a327254efe927a324cfdb17ef13a3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/378a327254efe927a324cfdb17ef13a3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/8bf65ee0a9ca3142421ea14334a8e256/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wallet-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-11.8.0.aar/8bf65ee0a9ca3142421ea14334a8e256/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/6ab4be15ade304e611d7ccbe102f03f5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-11.8.0.aar/6ab4be15ade304e611d7ccbe102f03f5/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/diego/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ca155057ff6bb93cbf9f702091e3627a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/diego/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/ca155057ff6bb93cbf9f702091e3627a/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/aa0941f2c9c5da8d125df346504e49ea/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diego/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/998e8402f9906b4208b7b6060e7d89f1/AndroidManifest.xml:24:13-85
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-common-4.27.0.aar/c9da11771b7092761638ac6ff6e563b1/AndroidManifest.xml:33:19-68
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.8.0.aar/a53afee4fcd3625a95d6d4b83e2ba79a/AndroidManifest.xml:11:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.8.0.aar/bbc3c0262ff0bc76a80612beaa08d220/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:24:22-76
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:33:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.8.0.aar/52c4b866816e533268547c8d1fa4c7ab/AndroidManifest.xml:42:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.8.0.aar/86b799e52760be1c0278f779e29bc650/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/284c98e31d321813190de0300988afea/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/de77a6395356522e3ce24f2d03eb6cb7/AndroidManifest.xml:48:13-87
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.8.0.aar/618ddb56792a58cd420aa9003fd5aabd/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.8.0.aar/12f7156aa9d5f58fc68f30b128be3c38/AndroidManifest.xml:30:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.8.0.aar/f6aa2278fc8a9ec1f2dc44d9c98a1bdf/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/152fec0bcbb602fcfa922f591acf906a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/3aca1bc8315d406ca082bc1fa68ce513/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/0840019a479daf1e5e098b5aef6803f2/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/f0f83684b641a2811351d48da3a1cf79/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/1fea2b8e2f14c00105eb4a3e5119d0bf/AndroidManifest.xml:32:25-75
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:29:9-63
+permission#com.diego.myapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:32:22-76
+uses-permission#com.diego.myapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:39:13-43:29
+intent-filter#com.diego.myapplication+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:42:27-58
+category#com.diego.myapplication
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/d040cb2441d88be2d31c36c1280d0fce/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/a306a6855d539d79916d20986feb4af8/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/9e2c361e5da58798f5b9495822d26fdd/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/diego/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/e2f8234e7c7f8a7cf6551036c9af983d/AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/diego/.gradle/caches/transforms-1/files-1.1/facebook-core-4.27.0.aar/0fdf804ed9f3f18484415dd5ed6e5795/AndroidManifest.xml:40:13-70
